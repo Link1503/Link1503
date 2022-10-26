@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Link 1503
-- 👀 I’m interested in stuff I guess
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: Link_1503#7390
+- Hi, I’m @Link 1503
+- I’m interested in stuff I guess
+- Python | C# | Java
+- Discord : Link_1503#7390
+- She/Her
