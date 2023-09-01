@@ -1,5 +1,5 @@
 - Hi, I’m @Link 1503
 - I’m interested in stuff I guess
-- Python | C# | Java
+- Python | C# | Java Script
 - Discord : @Link_1503
 - She/Them
