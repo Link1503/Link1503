@@ -1,6 +1,6 @@
 - Hi, I’m @Link 1503
 - I’m interested in stuff I guess
-- Python | C# | Java Script
+- Python | C# | JavaScript
 - Discord : [@Link_1503](https://discord.com/users/437310799258583050)
 - She/Them
 - Website: [t-fg.net](https://www.t-fg.net/@link_1503)
